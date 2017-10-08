@@ -10,7 +10,7 @@ import ScrambleTextPlugin from './src/ScrambleTextPlugin'
 import SplitText from './src/SplitText'
 import ThrowPropsPlugin from './src/ThrowPropsPlugin'
 
-module.exports = {
+export default {
   CustomBounce: CustomBounce,
   CustomEase: CustomEase,
   CustomWiggle: CustomWiggle,
