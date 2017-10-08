@@ -1,0 +1,11 @@
+{
+  "name": "gsap-plugins",
+  "version": "1.0.0",
+  "description": "A collection of GSAP Plugins for use in projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
